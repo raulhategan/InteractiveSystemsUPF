@@ -21,5 +21,5 @@ This version includes a built Unity build, ready to run.
 3. Open the executable:
 - On **Windows**: Run `Rollaball Raul Hategan 253302.exe`
 
-✅ No Unity installation required to run the build.
+✅ No Unity installation required to run the build if the UnityPlayer is extracted.
 
